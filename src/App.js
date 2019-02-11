@@ -41,8 +41,9 @@ class App extends React.Component {
       description: undefined,
       error: "Please enter city and country"
 
-    }
+    });
   }
+}
 
   render(){
     return(
