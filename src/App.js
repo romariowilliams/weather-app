@@ -39,7 +39,7 @@ class App extends React.Component {
       <Forms getWeather={this.getWeather} />
       <Weather
        temperature={this.state.temperature}
-       city={this.state.city} 
+       city={this.state.city}
        country={this.state.country}
        humidity={this.state.humidity}
        description={this.state.description}
