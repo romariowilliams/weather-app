@@ -42,7 +42,7 @@ class App extends React.Component {
         	country: undefined,
         	humidity: undefined,
         	description: undefined,
-        	error: "City does not exist."
+        	error: "Sorry, we can't find that city. Try again."
      	 });
      	}
 
