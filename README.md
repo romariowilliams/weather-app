@@ -1,8 +1,7 @@
 ## Disclaimer
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). <br/>
-This project was created using the tutorial by Hamza Mizra:  https://www.youtube.com/watch?v=204C9yNeOYI  <br/>
-After creating this project, I realized that Hamza also has this project on Github at: https://github.com/hamza-mirza/react-weather-app  <br/>
-I plan to redesign the app and fix bugs that exist 
+This project was created using the tutorial by Hamza Mizra:  https://www.youtube.com/watch?v=204C9yNeOYI  <br/><br/>
+After creating this project, I realized that Hamza also has this project on Github at: https://github.com/hamza-mirza/react-weather-app  <br/> I plan to redesign the app and fix bugs that exist 
 
 
 ## Available Scripts
