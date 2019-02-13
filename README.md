@@ -1,6 +1,6 @@
 ## Disclaimer
-This project was created using the <a href="https://www.youtube.com/watch?v=204C9yNeOYI">tutorial by Hamza Mizra</a>.    <br/><br/>
-After creating this project, I realized that Hamza also has this project on <a href="https://github.com/hamza-mirza/react-weather-app">Github</a><br/><br/>
+This project was created using the <a href="https://www.youtube.com/watch?v=204C9yNeOYI">tutorial by Hamza Mizra</a>.    
+After creating this project, I realized that Hamza also has this project on <a href="https://github.com/hamza-mirza/react-weather-app">Github</a>
 As of February 13, 2019, the app has no CSS styling. I plan to redesign the app and fix bugs that exist.
 
 
