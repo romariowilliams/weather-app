@@ -5,7 +5,7 @@ After creating this project, I realized that Hamza also has this project on Gith
 
 
 ## Setup
-##### 1. Install nodejs and npm
+##### 1. Install nodejs and npm : https://nodejs.org/en/
 ##### 2. In the nodejs command prompt, navigate (`cd`) to the directory where you want to create the app.
 ##### 3. Install `create-react-app` if you don't have it installed yet 
 ```shell
